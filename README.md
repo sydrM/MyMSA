@@ -69,3 +69,5 @@ Path : n1
 Cluster URL : https://kubernetes.default.svc
 Namespace : n1
 ```
+
+END
